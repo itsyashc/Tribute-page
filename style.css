@@ -1,0 +1,45 @@
+body{
+    background-color:#DFD8CA;
+    margin: 60px 10% 60px 10%;
+    font-family: 'Playfair Display', serif;
+}
+
+#img-div{
+    background-color: #FBF3E4;
+    width: 100%;
+}
+
+#img-caption{
+    text-align: center;
+}
+
+#image{
+    display: block;
+    max-width: 70%;
+    height: auto;
+    margin-left: 15%;
+}
+
+#title{
+    text-align: center;
+}
+
+.header{
+    padding: 6px;
+}
+
+.main{
+    padding-bottom: 6px;
+}
+
+.footer{
+    padding: 6px;
+}
+
+.twitter-tweet{
+    width: 50%;
+}
+
+#tribute-link{
+    color: blue;
+}
